@@ -19,7 +19,7 @@ header {
 
   position: fixed;
   width: 100%;
-  background-color: #09090a;
+  background-image: linear-gradient(black,black,transparent);
 }
 
 button {
